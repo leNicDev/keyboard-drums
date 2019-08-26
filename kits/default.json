@@ -1,0 +1,29 @@
+{
+    "name": "Default",
+    "samples": {
+        "kick": {
+            "url": "./assets/default/kick.wav",
+            "key": "b"
+        },
+        "snare": {
+            "url": "./assets/default/snare.wav",
+            "key": "v"
+        },
+        "hatOpen": {
+            "url": "./assets/default/hat_open.wav",
+            "key": "z"
+        },
+        "hatClosed": {
+            "url": "./assets/default/hat_closed.wav",
+            "key": "x"
+        },
+        "crash1": {
+            "url": "./assets/default/crash_1.wav",
+            "key": "e"
+        },
+        "crash2": {
+            "url": "./assets/default/crash_2.wav",
+            "key": "r"
+        }
+    }
+}
